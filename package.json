@@ -9,7 +9,7 @@
     "start": "./node_modules/.bin/webpack-dev-server --config webpack.dev.config --progress --profile --colors --inline --hot"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "css-loader": "^0.23.1",
     "debounce": "^1.0.0",
